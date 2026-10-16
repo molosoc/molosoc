@@ -1,16 +1,17 @@
-## Hi there 👋
+# Molosoc - Moisture-Lock Foot Cover
 
-<!--
-**molosoc/molosoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Foot care you'll actually stick with.** Molosoc is the reusable moisture-lock foot cover that helps the foot cream you already own actually work.
 
-Here are some ideas to get you started:
+Website: [molosoc.com](https://molosoc.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Helpful foot care guides
+
+- [Cracked heels and dry skin](https://molosoc.com/cracked-heels/)
+- [Hardened skin and calluses](https://molosoc.com/hardened-skin-calluses/)
+- [Dry skin on feet](https://molosoc.com/dry-skin-feet/)
+- [Making the foot cream you own actually work](https://molosoc.com/foot-cream-that-works/)
+- [Meet the Molosoc Foot Cover](https://molosoc.com/foot-covers/moisture-lock-foot-cover/)
+
+## Follow Molosoc
+
+[Pinterest](https://www.pinterest.com/molosoc/) | [Instagram](https://www.instagram.com/molosoc_/) | [TikTok](https://www.tiktok.com/@molosoc) | [Facebook](https://www.facebook.com/molosoc) | [YouTube](https://www.youtube.com/@Molosoc)
